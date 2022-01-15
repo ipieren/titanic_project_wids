@@ -1,0 +1,9 @@
+1. Finding out the characteristics of data
+2. EDA - histograms, boxplots and violin plots
+3. Value counts, Missing values and NA entries 
+4. Feature engineering using one hot encoding
+5. Seaborn heatmap to find correlations
+6. Explore interesting correlations based on heatmap results
+7. Data scaling and normalization
+8. Implementation of ML models
+9. Accuracy score comparison of different classification techniques
